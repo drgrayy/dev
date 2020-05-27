@@ -16,7 +16,7 @@
   <!-- 
 	//////////////////////////////////////////////////////
 
-	FREE HTML5 TEMPLATE 
+	FREE HTML5 TEMPLAT 
 	DESIGNED & DEVELOPED by QBOOTSTRAP.COM
 		
 	Website: 		http://qbootstrap.com/
